@@ -1,0 +1,7 @@
+[tool.poetry]
+name = "howblox-lib"
+version = "0.0.1"
+description = "Shared utils used for Python codebase of howblox."
+authors = ["Howblox"]
+readme = "README.md"
+repository = "https://github.com/jeremy-howblox"
